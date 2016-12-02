@@ -1,16 +1,9 @@
 package com.htquach.lottery;
 
-import com.sun.javafx.binding.StringFormatter;
-
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 import java.util.Random;
 
 
-/**
- * Created by hqxubuntu on 9/25/16.
- */
 public class MegaMillions extends LotteryTicket {
     private static final String NAME = "Mega Millions";
     private static final int COST = 1;

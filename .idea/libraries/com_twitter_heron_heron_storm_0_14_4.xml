@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.twitter.heron:heron-storm:0.14.4" type="repository">
+    <properties maven-id="com.twitter.heron:heron-storm:0.14.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/heron-storm-0.14.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/heron-storm-0.14.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/heron-storm-0.14.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
